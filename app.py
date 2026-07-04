@@ -13,6 +13,7 @@ cube = n ** 3
 fifth_power = n ** 5
 
 # Display results
+st.write(f"we are doing the calculations for the number: {n}")
 st.write(f"The square of {n} is: {square}")
 st.write(f"The cube of {n} is: {cube}")
 st.write(f"The fifth power of {n} is: {fifth_power}")
